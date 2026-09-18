@@ -7,3 +7,4 @@ Username validation
 Password complexity validation 
 South Africa cellphone number validation 
 User registration and login
+This project was developed as part of a programming assignment 
